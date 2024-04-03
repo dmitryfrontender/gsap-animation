@@ -1,6 +1,6 @@
 <template>
   <!-- eslint-disable -->
-  <h4>All hardworking to aim clients target</h4>
+  <h4>Everyone is working hard to meet clients' needs</h4>
   <div class="wrapper">
     <div class="svg-block">
       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2802.79 2800">
@@ -262,7 +262,7 @@ onMounted(() => {
 
   arrow.to('#arrow', {
     transformOrigin: '100% 0',
-    scale: 0.8,
+    scale: 0.7,
     duration: 0.1,
     delay: 6,
   }).to('#arrow', {

@@ -1,6 +1,6 @@
 <template>
   <!-- eslint-disable -->
-  <h4>Order is coming</h4>
+  <h4>An order is coming</h4>
   <div class="wrapper">
     <div class="svg-block">
       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2785.53 2800">

@@ -1,5 +1,5 @@
 <template>
-  <h1>Welcome to IT space</h1>
+  <h1>Welcome to the IT space</h1>
   <router-view/>
 </template>
 

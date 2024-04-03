@@ -1,6 +1,6 @@
 <template>
   <!-- eslint-disable -->
-  <h4>Managers and business analytics will work over all business processes</h4>
+  <h4>Managers and business analysts will work on all business processes.</h4>
   <div class="wrapper">
     <div class="svg-block">
       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2810.58 2772.4">
